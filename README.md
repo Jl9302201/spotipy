@@ -1,4 +1,4 @@
-Joel Lopez# Spotipy
+Exclousive/Joel Lopez# Spotipy
 
 ##### Spotipy is a lightweight Python library for the [Spotify Web API](https://developer.spotify.com/documentation/web-api). With Spotipy you get full access to all of the music data provided by the Spotify platform.
 
